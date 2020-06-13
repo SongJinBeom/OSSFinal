@@ -15,11 +15,11 @@
 
 ------------------
 - 사용된 오픈소스 - 
-  1.OpenWeatherMap API
+  1. OpenWeatherMap API
     https://openweathermap.org/
-  2.달력
+  2. 달력
     https://github.com/jamelbaz/FullCalendar-BS3-PHP-MySQL
-  3.2048
+  3. 2048
     https://github.com/gabrielecirulli/2048
 
 ----------------
