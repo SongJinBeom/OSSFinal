@@ -18,7 +18,7 @@
 
 
 ------------------
-- 사용된 오픈소스 - 
+- 사용된 오픈소스 
   1. OpenWeatherMap API
     https://openweathermap.org/
   2. 달력
