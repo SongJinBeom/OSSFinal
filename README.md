@@ -15,6 +15,7 @@
 ------------------
 - 사용된 오픈소스 - 
   1. OpenWeatherMap API
+  https://openweathermap.org/
   2. 달력(PHP와 MySQL 사용)
     https://github.com/jamelbaz/FullCalendar-BS3-PHP-MySQL
   3. 2048 게임
