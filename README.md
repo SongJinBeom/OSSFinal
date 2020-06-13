@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FullCalendar-BS3-PHP-MySQL
 FullCalendar 2 integration with bootstrap, php and mysql
 
@@ -7,3 +8,6 @@ FullCalendar 2 integration with bootstrap, php and mysql
 ## License
 
 MIT
+=======
+##### OSS FINAL #####
+>>>>>>> 7cf47e8c450152bc158054dc48d8ea201ef5b4c6
