@@ -22,3 +22,7 @@
     https://github.com/gabrielecirulli/2048
 
 ----------------
+
+홈페이지 소개영상
+
+https://youtu.be/LQivikCA5QM
