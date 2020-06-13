@@ -25,4 +25,4 @@
 
 홈페이지 소개영상
 
-https://youtu.be/LQivikCA5QM
+https://youtu.be/bxQOxSRRWac
