@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# FullCalendar-BS3-PHP-MySQL
-FullCalendar 2 integration with bootstrap, php and mysql
 
-## DEMO and Installtion
-[demo](http://jamelbaz.com/non-classe/integration-de-fullcalendar2-php-mysql).
+## OSS FINAL
 
-## License
+##오픈소스 소프트웨어 파이널 과제
 
-MIT
-=======
-##### OSS FINAL #####
->>>>>>> 7cf47e8c450152bc158054dc48d8ea201ef5b4c6
+라즈베리파이를 통해 제 개인 스케줄 관리페이지의 프로토타입을 제작하였습니다.
